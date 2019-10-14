@@ -1,6 +1,7 @@
 # react-native-midtrans-payment
 
-Midtrans payment gateway forked from 'https://github.com/adityahas/react-native-midtrans-payment' with improved callbacks for cancelled transactions.
+Midtrans payment gateway forked from 'https://github.com/adityahas/react-native-midtrans-payment'
+Using the Latest Version of Midtrans library v1.23.1
 
 ## Getting started
 
