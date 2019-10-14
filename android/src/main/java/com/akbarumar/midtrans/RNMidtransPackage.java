@@ -1,5 +1,5 @@
 
-package com.adityahas.midtrans;
+package com.akbarumar.midtrans;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

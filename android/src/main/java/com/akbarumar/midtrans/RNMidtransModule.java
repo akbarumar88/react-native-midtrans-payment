@@ -1,4 +1,4 @@
-package com.adityahas.midtrans;
+package com.akbarumar.midtrans;
 
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;

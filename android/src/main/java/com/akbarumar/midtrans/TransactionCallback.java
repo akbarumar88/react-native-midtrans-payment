@@ -1,4 +1,4 @@
-package com.adityahas.midtrans;
+package com.akbarumar.midtrans;
 
 import android.util.Log;
 
